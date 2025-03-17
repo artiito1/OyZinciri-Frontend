@@ -6,7 +6,7 @@ export const Footer = () => {
   const currentYear = new Date().getFullYear();
   
   const socialLinks = [
-    { name: 'FronEnd', url: 'https://github.com/artiito1/votedao' },
+    { name: 'FronEnd', url: 'https://github.com/artiito1/Voter-DAO-Frontend' },
     { name: 'SmartContract', url: 'https://github.com/artiito1/Voting_system' },
     { name: 'WhitePaper', url: '/' },
   ];
