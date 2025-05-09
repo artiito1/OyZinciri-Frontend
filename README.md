@@ -1,7 +1,7 @@
-# VoteDao - Blockchain Voting System
+# oyzinciri - Blockchain Voting System
 
 ## 📌 Overview
-VoteDao is a smart contract written in Solidity that enables the creation and management of voting polls in a decentralized and secure manner. Users can vote on existing polls with specified options, and all votes are stored transparently on the blockchain.
+oyzinciri is a smart contract written in Solidity that enables the creation and management of voting polls in a decentralized and secure manner. Users can vote on existing polls with specified options, and all votes are stored transparently on the blockchain.
 
 ## 🚀 Features
 - **Poll Creation:** Only the admin (manager) can create new polls and set their duration.  
@@ -38,5 +38,5 @@ VoteDao is a smart contract written in Solidity that enables the creation and ma
   - `getUserPollsAlreadyVoted()` - Retrieves all polls the user has already voted on.  
 
 ## 🖥️ User Interface
-VoteDao's frontend is developed using **Next.js and React**, with **Tailwind CSS** providing a modern and responsive design. 
+oyzinciri's frontend is developed using **Next.js and React**, with **Tailwind CSS** providing a modern and responsive design. 
 The system supports file uploads via **react-dropzone**, displays notifications using **react-toastify**, and allows users to view transaction details on **Etherscan**.
